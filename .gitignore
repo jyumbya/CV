@@ -1,0 +1,8 @@
+Resume.tex
+officialheader.tex
+*.aux
+*.log
+*.synctex.gz
+.DS_Store
+references.tex
+*.pdf
